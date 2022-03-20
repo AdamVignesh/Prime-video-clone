@@ -1,0 +1,163 @@
+/* nav-bar */
+#sec1{
+  background-color: #092532 ;
+  padding:9px;
+}
+.signin{
+  font-size: 17px;
+  color:#fff;
+}
+.en{
+  font-size: 17px;
+  color:#fff;
+}
+/* welcome page */
+#sec2{
+  padding-left: 70px;
+  background-color:#000;
+}
+#imgs{
+  width:130%;
+}
+.wel-txt{
+  padding-top: 80px;
+  width:40%;
+  color:#fff;
+  font-size:20px;
+}
+.wel-para{
+  padding-top: 12px;
+  padding-bottom: 20px;
+}
+.wel-h1{
+  font-size: 40px;
+}
+.wel-but{
+  width:260px;
+  height:53px;
+  border-radius:0;
+}
+/* sec3 */
+#sec3{
+  background-color: #000;
+}
+.sec3img{
+  width:95%;
+  padding-left: 70px;
+  padding-top: 150px;
+}
+.sec3h1{
+  padding-top:  130px;
+  padding-left: 130px;
+  padding-bottom: 15px;
+  font-size: 40px;
+  color:#fff;
+}
+.sec3p{
+  margin-top:10px;
+  color: #fff;
+  padding-left: 130px;
+  width: 80%;
+}
+.sec3btn{
+  margin-left:130px;
+  margin-top: 20px;
+}
+
+/* section4 */
+#sec4{
+  padding-top: 100px;
+  padding-left: 50px;
+  background-color: #000;
+}
+.sec4h1{
+  color:#fff;
+  width:90%;
+  margin-bottom: 20px;
+}
+.sec4p{
+  color:#fff;
+  width: 65%;
+  font-size: 16px;
+  margin-bottom: 25px;
+  margin-top: 15px;}
+.sec4img{
+  padding-left: 30px;
+  padding-bottom: 10px;
+  width: 80%;
+}
+/* sec5 */
+#sec5{
+  background-color: #000;
+}
+.sec5img{
+  width:120%;
+  padding-left: 70px;
+  padding-top: 150px;
+  padding-right: 400px;
+  padding-bottom: 20px;
+}
+.sec5h1{
+  padding-top:  130px;
+  padding-left: 60px;
+  padding-bottom: 15px;
+  font-size: 40px;
+  color:#fff;
+}
+.sec5p{
+  margin-top:10px;
+  color: #fff;
+  padding-left: 60px;
+  width: 72%;
+}
+.sec5btn{
+  margin-left:60px;
+  margin-top: 20px;
+}
+
+/* features */
+#features{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 60px;
+    background-color: #fff;
+    position: relative;
+
+}
+.feature_row1{
+    width: 1.5rem;
+    width: 100%;
+}
+.feature_row2{
+    width: 1.5rem;
+    width: 1.5rem;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.feature_row3{
+    width: 1.5rem;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+
+}
+
+/* footer */
+footer{
+  text-align: center;
+  background-color:#363636;
+}
+a{
+  padding-left: 6px;
+  padding-right: 6px;
+}
+h6{
+  padding-top: 10px;
+  color:grey;
+  font-size:20px;
+}
+.footerp{
+color:grey;
+}
